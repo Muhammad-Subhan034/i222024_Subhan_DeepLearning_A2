@@ -1,7 +1,7 @@
 # Legal Clause Similarity Detection System – Enhanced Report
 
 **Course:** CS452 – Natural Language Processing  
-**Student:** [Your Name]  
+**Student:** Subhan
 **File Name:** `CS452_LegalClauseSimilarity_Report.pdf`
 
 ---
